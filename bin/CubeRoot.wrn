@@ -1,0 +1,3 @@
+(res/drawable-xhdpi/ic_launcher.png) found an alternate icon with better size:impact=1
+(AndroidManifest.xml) targetSdkVersion: 17 is higher than 10:impact=1
+Unavailable custom icon file G:\New folder (2)\adt-bundle-windows-x86\workspace\CubeRoot\bin\CubeRoot.png:impact=1
